@@ -6,3 +6,5 @@ FrontEnd -MiddleEnd-BackEnd -Database-Cloud
 - we try to prepare an API GateWay that acts as this middle end.
 - API GateWay is a single entry point for all the client request.
 - it also do reverse proxy for the microservices.
+- api gate way is a proxy between client and microservices
+- 
